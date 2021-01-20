@@ -1,4 +1,5 @@
-# day9
+# day9 for in range
+
 ```
 for e in range(100,1):
   print("*" * (e-1))
